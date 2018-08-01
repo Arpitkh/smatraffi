@@ -139,3 +139,131 @@ header.masthead h1{
     color: gray;
     font-weight: lighter;
 }
+
+.moony{
+    font-weight: bold;
+    font-size: 80px;
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;;
+    color: darkslategray;
+}
+
+#product{
+    background-color: #ECFEB3;
+}
+
+.pringles{
+    color: #4e555b;
+}
+
+hr.light {
+    max-width: 225px;
+    border-color: grey;
+    border-width: 3px;
+
+}
+
+#rad{
+    background-color: #D7F8CC;
+}
+
+.btn {
+  font-weight: 700;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 300px;
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.btn-xl {
+  padding: 1rem 2rem;
+}
+
+.btn-primary {
+  background-color: lawngreen;
+  border-color: white;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+  color: #fff;
+  background-color: greenyellow !important;
+}
+
+section#rad .form-group {
+    margin-bottom: 25px;
+    padding: 0 100px 0 100px;
+
+}
+
+section#rad .form-group input,
+section#rad .form-group textarea {
+    padding: 20px;
+}
+
+section#rad .form-group input.form-control {
+    height: auto;
+}
+
+section#rad .form-group textarea.form-control {
+    height: 248px;
+}
+
+section#rad .form-control:focus {
+    border-color: green;
+    box-shadow: none;
+}
+
+section#rad ::-webkit-input-placeholder {
+    font-weight: 700;
+    color: #ced4da;
+    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+section#rad :-moz-placeholder {
+    font-weight: 700;
+    color: #ced4da;
+    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+}
+
+section#rad ::-moz-placeholder {
+    font-weight: 700;
+    color: #ced4da;
+  /* Firefox 19+ */
+    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+section#rad :-ms-input-placeholder {
+    font-weight: 700;
+    color: #ced4da;
+    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+#git{
+    background: darkslategrey;
+}
+
+.apples{
+    color: white;
+}
+
+.banana{
+    color: white;
+    font-weight: bold;
+    font-size: 80px;
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;;
+}
+
+.footer {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #2C3E50;
+  color: #fff;
+}
+
+.copyright {
+  background-color: #1a252f;
+}
+
+a {
+    color: white;
+}
